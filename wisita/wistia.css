@@ -1,0 +1,169 @@
+.header-wistia {
+    display: flex;
+    flex-wrap: wrap;
+    /*background-color: DodgerBlue;*/
+    flex-direction: row;
+    align-items: stretch;
+    align-content: stretch;
+    justify-content: space-between;
+    border-width: 1px;
+    border-style: solid;
+     border-color: navajowhite;}
+
+     
+.navbarwistia{ text-decoration-color: black;
+background-color: white;
+    font-style:bold; }    
+    
+
+.navbars1{
+    display: flex;
+    flex-direction: column;
+    ;
+    
+    align-items: stretch;
+}
+    
+    #btns{display: flex;
+    }
+    .purplee{
+        background-color:#F797FE
+        ;
+        display: flex;
+        flex-direction: row;
+        align-content: space-around;
+        
+        height: 500px;
+        
+
+    }
+    .txtprpl {
+        margin-left: 150px;
+        padding-top: 200px;
+    
+    }
+    .videogif{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+.colors{
+    display: flex;
+    flex-direction: row;
+    height:400px;
+    
+
+}
+.flex-container{
+    padding: 2%;
+}
+
+.txtgry{
+height: 100px;
+width: 200px;
+margin: 3%;
+}
+
+.images{
+    display: flex;
+    height: 150px;
+    margin-top: 7%;
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    justify-content: space-around
+
+}
+
+    
+
+
+
+
+.imgsize{
+    height: 150px;
+    width: 100px;
+    
+}
+
+.artclesze{
+    height: 250px;
+    width: 350px;
+    
+    
+
+}
+
+.articles{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
+
+ .ftrgrey{
+     height: 70px;
+     display: flex;
+     justify-content: space-around;
+     background-color: rgb(165, 165, 165);
+
+     
+ }   
+
+ .ftrdark{
+     background-color: rgb(44, 45, 53);
+     height: 300px;
+     display: flex;
+     flex-direction: row;
+
+ }
+.ftrdark1{
+    
+    width:700px;
+    padding: 3%;
+    flex-wrap: wrap;
+
+}
+.ftrdark2{
+    padding: 3%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+    color: lightgray;
+    padding-top: 5px;
+
+}
+
+
+.ftrdark3{
+    background-color: rgb(44, 45, 53);
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+
+    flex-wrap: wrap;
+    }
+
+    .ftrdark4{
+       /* border-style: solid;
+        border-color: white;
+        border-width: 5px;*/
+        background-color: rgb(44, 45, 53);
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+        flex-wrap: wrap;
+        }
+        #navbarNavAltMarkup{
+            margin-left: 50%!important;
+        }
+
+       
+  
